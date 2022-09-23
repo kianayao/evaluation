@@ -53,7 +53,7 @@ Which of these languages offers the lowest level of control and fastest executio
 
 
 What is the purpose of version control systems (VCS) such as Git or Mercurial?
-> Version control systems act as a safety net should changes or updates lead to any sort of failure.
+> Version control systems act as a safety net should changes or updates lead to any sort of failure. <br />
 > VCS allows one to recover past (working) versions of a project.
 ---
 **Embedded Systems**
@@ -89,18 +89,18 @@ Which of the following is a job for the DHCP server?
 
 What does the permission code 777 represent (as used in `chmod 777`)?
 owner group others  
-> rwx   rwx   rwx     The permission code 777 refers to read, write, execute permissions.
+> rwx   rwx   rwx     The permission code 777 refers to read, write, execute permissions. <br />
 > 421   421   421     777 gives everyone read, write, and execute permissions.
 
 Which of these commands sets and environment variable in Linux? 
- - export VAR=val
+ > - export VAR=val
  - export $VAR=val 
  - echo VAR=val
  - echo $VAR=val
 
 
 What is one major role of systemd?
-
+> null
 
 ---
 **AI**
@@ -113,19 +113,19 @@ Which of these network architectures would be best suited for processing text?
 
 
 What is one solution to the vanishing gradient problem in backprop?
-
+> null
 
 What is the traditional flow of interactions for a reinforcement learning agent?
  - Read the current state, take an action, environment updates state
  - Make a prediction, evaluate the loss from a target, update model with backprop
- - Generate result, compare result to similar objects of the class, improve discriminator and predictor
+ > - Generate result, compare result to similar objects of the class, improve discriminator and predictor
 
 
 Briefly describe either branch and bound or dynamic programming:
-
+> null
 
 What is the main challenge with implementing A*:
- - Picking the correct heuristic
+ > - Picking the correct heuristic
  - Initialization parameters
  - Solution will not converge
  - Too long of an execution compared to other common pathfinders
