@@ -13,11 +13,11 @@ When you are finished, push the code to your own repo and send the link to maxwi
 ---
 ## Info
 
-Name: 
+Name: Kiana Yao
 
-Email:
+Email: kmyao@cpp.edu
 
-Project you are applying for:
+Project you are applying for: MoonFall
 
 
 ---
@@ -42,51 +42,55 @@ What is one difference between a float and an int?
 **General**
 
 What does an activity diagram show?
-
+> A visual aid that shows the flow of a program or how  components of a project should
+> work together.
 
 Which of these languages offers the lowest level of control and fastest execution?
  - Python
  - C#
  - Java
- - C
+ > - C
 
 
 What is the purpose of version control systems (VCS) such as Git or Mercurial?
-
+> Version control systems act as a safety net should changes or updates lead to any sort of failure.
+> VCS allows one to recover past (working) versions of a project.
 ---
 **Embedded Systems**
 
 Which level of cache would be accessible by only a single core on a multi-core chip?
- - L1
+ > - L1
  - L2
  - L3
  - All levels
 
 
 Explain one difference between any of these 2 protocols: I2C, SPI, UART:
-
+> null
 
 What is a feature Java has that C++ does not?
  - Object oriented classes
  - Lambda expressions
  - Data streams
- - Implicit garbage collection
+ > - Implicit garbage collection
 
 
 Name one major concern when developing for embedded systems and edge computing such as a deployed Jetson or Raspberry Pi:
-
+> null
 
 Which of the following is a job for the DHCP server?
  - Route packets out to the internet
  - Make particular ports available for access on the inter/intranet
- - Assign IP addresses on the network
+ > - Assign IP addresses on the network
  - Look up what domain name maps to an address on the internet
 
 ---
 **Linux**
 
 What does the permission code 777 represent (as used in `chmod 777`)?
-
+owner group others  
+> rwx   rwx   rwx     The permission code 777 refers to read, write, execute permissions.
+> 421   421   421     777 gives everyone read, write, and execute permissions.
 
 Which of these commands sets and environment variable in Linux? 
  - export VAR=val
